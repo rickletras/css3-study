@@ -1,0 +1,15 @@
+p {
+    color: red;
+}
+
+p.group {
+    color: blue;
+}
+
+p#last {
+    color: green;
+}
+
+p#last {
+    color: magenta;
+}
